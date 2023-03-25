@@ -1,0 +1,331 @@
+{
+  "repositories": [
+    {
+      "title": "openai /\n\n      chatgpt-retrieval-plugin",
+      "description": "",
+      "url": "https://github.com/openai/chatgpt-retrieval-plugin",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "BlinkDL /\n\n      RWKV-LM",
+      "description": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
+      "url": "https://github.com/BlinkDL/RWKV-LM",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "getcursor /\n\n      cursor",
+      "description": "An editor made for programming with AI 🤖",
+      "url": "https://github.com/getcursor/cursor",
+      "stars": "",
+      "forks": "",
+      "language": "TypeScript"
+    },
+    {
+      "title": "LC1332 /\n\n      Chinese-alpaca-lora",
+      "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+      "url": "https://github.com/LC1332/Chinese-alpaca-lora",
+      "stars": "",
+      "forks": "",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "title": "intitni /\n\n      CopilotForXcode",
+      "description": "The missing GitHub Copilot Xcode Source Editor Extension",
+      "url": "https://github.com/intitni/CopilotForXcode",
+      "stars": "",
+      "forks": "",
+      "language": "Swift"
+    },
+    {
+      "title": "cisagov /\n\n      untitledgoosetool",
+      "description": "Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.",
+      "url": "https://github.com/cisagov/untitledgoosetool",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "programthink /\n\n      zhao",
+      "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+      "url": "https://github.com/programthink/zhao",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "rust-lang /\n\n      rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "url": "https://github.com/rust-lang/rustlings",
+      "stars": "",
+      "forks": "",
+      "language": "Rust"
+    },
+    {
+      "title": "BlinkDL /\n\n      ChatRWKV",
+      "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+      "url": "https://github.com/BlinkDL/ChatRWKV",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "ggerganov /\n\n      llama.cpp",
+      "description": "Port of Facebook's LLaMA model in C/C++",
+      "url": "https://github.com/ggerganov/llama.cpp",
+      "stars": "",
+      "forks": "",
+      "language": "C"
+    },
+    {
+      "title": "willwulfken /\n\n      MidJourney-Styles-and-Keywords-Reference",
+      "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
+      "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+      "stars": "",
+      "forks": "",
+      "language": ""
+    },
+    {
+      "title": "GaiZhenbiao /\n\n      ChuanhuChatGPT",
+      "description": "GUI for ChatGPT API",
+      "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "nsarrazin /\n\n      serge",
+      "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+      "url": "https://github.com/nsarrazin/serge",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "hwchase17 /\n\n      langchain",
+      "description": "⚡ Building applications with LLMs through composability ⚡",
+      "url": "https://github.com/hwchase17/langchain",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "mckaywrigley /\n\n      chatbot-ui",
+      "description": "An open-source ChatGPT UI.",
+      "url": "https://github.com/mckaywrigley/chatbot-ui",
+      "stars": "",
+      "forks": "",
+      "language": "TypeScript"
+    },
+    {
+      "title": "f /\n\n      awesome-chatgpt-prompts",
+      "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+      "url": "https://github.com/f/awesome-chatgpt-prompts",
+      "stars": "",
+      "forks": "",
+      "language": "HTML"
+    },
+    {
+      "title": "madawei2699 /\n\n      myGPTReader",
+      "description": "myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
+      "url": "https://github.com/madawei2699/myGPTReader",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    },
+    {
+      "title": "radi-cho /\n\n      awesome-gpt4",
+      "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
+      "url": "https://github.com/radi-cho/awesome-gpt4",
+      "stars": "",
+      "forks": "",
+      "language": ""
+    },
+    {
+      "title": "zadam /\n\n      trilium",
+      "description": "Build your personal knowledge base with Trilium Notes",
+      "url": "https://github.com/zadam/trilium",
+      "stars": "",
+      "forks": "",
+      "language": "JavaScript"
+    },
+    {
+      "title": "geekan /\n\n      HowToLiveLonger",
+      "description": "程序员延寿指南 | A programmer's guide to live longer",
+      "url": "https://github.com/geekan/HowToLiveLonger",
+      "stars": "",
+      "forks": "",
+      "language": ""
+    },
+    {
+      "title": "evanw /\n\n      thumbhash",
+      "description": "A very compact representation of an image placeholder",
+      "url": "https://github.com/evanw/thumbhash",
+      "stars": "",
+      "forks": "",
+      "language": "Swift"
+    },
+    {
+      "title": "PlexPt /\n\n      awesome-chatgpt-prompts-zh",
+      "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+      "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+      "stars": "",
+      "forks": "",
+      "language": ""
+    },
+    {
+      "title": "t3dotgg /\n\n      chirp",
+      "description": "",
+      "url": "https://github.com/t3dotgg/chirp",
+      "stars": "",
+      "forks": "",
+      "language": "TypeScript"
+    },
+    {
+      "title": "labmlai /\n\n      annotated_deep_learning_paper_implementations",
+      "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+      "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+      "stars": "",
+      "forks": "",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "title": "facebookresearch /\n\n      llama",
+      "description": "Inference code for LLaMA models",
+      "url": "https://github.com/facebookresearch/llama",
+      "stars": "",
+      "forks": "",
+      "language": "Python"
+    }
+  ],
+  "developers": [
+    {
+      "name": "openai /\n\n      chatgpt-retrieval-plugin",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "BlinkDL /\n\n      RWKV-LM",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "getcursor /\n\n      cursor",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "LC1332 /\n\n      Chinese-alpaca-lora",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "intitni /\n\n      CopilotForXcode",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "cisagov /\n\n      untitledgoosetool",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "programthink /\n\n      zhao",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "rust-lang /\n\n      rustlings",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "BlinkDL /\n\n      ChatRWKV",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "ggerganov /\n\n      llama.cpp",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "willwulfken /\n\n      MidJourney-Styles-and-Keywords-Reference",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "GaiZhenbiao /\n\n      ChuanhuChatGPT",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "nsarrazin /\n\n      serge",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "hwchase17 /\n\n      langchain",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "mckaywrigley /\n\n      chatbot-ui",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "f /\n\n      awesome-chatgpt-prompts",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "madawei2699 /\n\n      myGPTReader",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "radi-cho /\n\n      awesome-gpt4",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "zadam /\n\n      trilium",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "geekan /\n\n      HowToLiveLonger",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "evanw /\n\n      thumbhash",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "PlexPt /\n\n      awesome-chatgpt-prompts-zh",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "t3dotgg /\n\n      chirp",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "labmlai /\n\n      annotated_deep_learning_paper_implementations",
+      "username": "",
+      "repo": ""
+    },
+    {
+      "name": "facebookresearch /\n\n      llama",
+      "username": "",
+      "repo": ""
+    }
+  ]
+}
